@@ -1,0 +1,11 @@
+Flask==3.0.2
+gunicorn==21.2.0
+supabase
+reportlab
+Pillow
+pyhanko[pypdf,opentype]
+cryptography
+python-docx
+pandas
+openpyxl
+requests

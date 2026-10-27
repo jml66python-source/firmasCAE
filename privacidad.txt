@@ -1,0 +1,52 @@
+INFORMACIÓN SOBRE PROTECCIÓN DE DATOS PERSONALES
+
+Responsable del tratamiento: SELECON (CIF: B41601980)
+
+¿Para qué usamos tus datos?
+Utilizamos los datos que nos facilitas para acreditar tu conformidad con la
+puesta a disposición de los recibos de salario y boletines de cotización a
+la Seguridad Social, en cumplimiento de la normativa de Coordinación de
+Actividades Empresariales (CAE) aplicable a las empresas que colaboran en
+un mismo centro de trabajo.
+
+¿Qué datos recogemos?
+- Nombre y DNI
+- Fecha, hora y dirección IP desde la que se realiza la firma
+- Información técnica del dispositivo utilizado (navegador)
+- Imagen de tu firma manuscrita digital
+
+¿Cuál es la base legal?
+El tratamiento se basa en el cumplimiento de una obligación legal derivada
+de la normativa de prevención de riesgos laborales y coordinación de
+actividades empresariales, así como en la relación contractual/laboral
+existente.
+
+¿Con quién compartimos tus datos?
+Tus datos se almacenan a través de Supabase Inc., que actúa como encargado
+de tratamiento y presta servicios de alojamiento de bases de datos. No se
+ceden datos a terceros salvo obligación legal o para acreditar el
+cumplimiento de la normativa CAE ante la empresa o entidad coordinadora
+que corresponda.
+
+¿Cuánto tiempo conservamos tus datos?
+Conservamos esta información durante el tiempo exigido por la normativa
+laboral y de prevención de riesgos laborales aplicable, y en todo caso
+mientras pueda ser necesaria para acreditar el cumplimiento ante
+inspecciones o requerimientos de las administraciones competentes.
+
+¿Cuáles son tus derechos?
+Puedes ejercer tus derechos de acceso, rectificación, supresión,
+oposición, limitación del tratamiento y portabilidad, dirigiéndote a:
+[CORREO O CONTACTO DE LA EMPRESA PENDIENTE DE COMPLETAR]
+
+También tienes derecho a presentar una reclamación ante la Agencia
+Española de Protección de Datos (www.aepd.es) si consideras que el
+tratamiento de tus datos no se ajusta a la normativa vigente.
+
+---
+NOTA INTERNA (borrador pendiente de revisión legal, no mostrar al
+trabajador): este texto es una plantilla de partida y debe ser revisado y
+validado por una persona con conocimientos en protección de datos antes
+de su uso oficial. Falta completar el contacto para ejercicio de derechos
+y confirmar el plazo exacto de conservación según la normativa aplicable
+al sector.
