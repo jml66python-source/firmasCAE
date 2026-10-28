@@ -28,22 +28,17 @@ app = Flask(__name__)
 
 # Configuración de Supabase
 SUPABASE_URL = os.environ.get("SUPABASE_URL")
-  
+SUPABASE_KEY = os.environ.get("SUPABASE_KEY")
 
 if not SUPABASE_URL or not SUPABASE_KEY:
     raise RuntimeError(
         "Faltan las variables de entorno SUPABASE_URL y/o SUPABASE_KEY. "
-        "Configúralas antes de arrancar la app."
+        "Configúrala antes de arrancar la app."
     )
 
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
 TZ_MADRID = ZoneInfo("Europe/Madrid")
-
-
-
-
-# variale URL
 
 # URL base oficial leída estrictamente desde Render
 BASE_URL_PROD = os.environ.get("BASE_URL")
@@ -53,17 +48,11 @@ if not BASE_URL_PROD:
         "Configúrala en Render antes de arrancar la app."
     )
 
-# URL base oficial leída desde las variables de entorno de Render
-#BASE_URL_PROD = os.environ.get("BASE_URL", "https://app-firmas-cae.onrender.com")
-
 SECRET_SALT = os.environ.get("SECRET_SALT")
 if not SECRET_SALT:
     raise RuntimeError(
         "Falta la variable de entorno SECRET_SALT. Configúrala antes de arrancar la app."
     )
-
-# URL base oficial de producción en Render
-BASE_URL_PROD = "https://app-firmas-cae.onrender.com"
 
 def get_current_month_name():
     months = {
